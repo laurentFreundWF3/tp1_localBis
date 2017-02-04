@@ -1,0 +1,9 @@
+body{
+	background-color: #e67e22 ;
+}
+p{
+	position: absolute;
+	width : 100%;
+	top:40%;
+	font-size: 5em ;
+}
